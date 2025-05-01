@@ -3,7 +3,8 @@
 </p>
 <h1 align="center">Mica Alt by Chill-Astro</h1>
 
-Mica Alt by Chill-Astro is an App that allows you to preview your Mica Alt Backdrop Effect from your wallpaper! This is a recreation of Tabbed by FireCubeStudios.
+Mica Alt by Chill-Astro is an App that allows you to preview your Mica Alt Backdrop Effect from your Wallpaper! This is a recreation of Tabbed by FireCubeStudios.
+This app does nothing to be honest but it looks nice!
 
 Currently available for **Windows 11**.
 
