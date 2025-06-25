@@ -9,6 +9,7 @@
 *.user
 *.userosscache
 *.sln.docstates
+Output/
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -17,6 +18,7 @@
 mono_crash.*
 
 # Build results
+publish/
 [Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
@@ -75,12 +77,12 @@ StyleCopReport.xml
 *_h.h
 *.ilk
 *.meta
-*.obj
 *.iobj
 *.pch
 *.pdb
 *.ipdb
 *.pgc
+*.obj
 *.pgd
 *.rsp
 *.sbr

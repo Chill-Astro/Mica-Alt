@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "Mica-Alt (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "Mica-Alt (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}

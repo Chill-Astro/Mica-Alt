@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/Chill-Astro/Mica-Alt/blob/master/Assets/StoreLogo.scale-400.png" width="100px" height="100px" alt="Mica Logo">
+  <img src="https://github.com/Chill-Astro/Mica/blob/master/Assets/StoreLogo.scale-400.png" width="100px" height="100px" alt="Mica Logo">
 </p>
-<h1 align="center">Mica Alt by Chill-Astro</h1>
+<h1 align="center">Mica by Chill-Astro</h1>
 
-Mica Alt by Chill-Astro is an App that allows you to preview your Mica Alt Backdrop Effect from your Wallpaper! This is a recreation of Tabbed by FireCubeStudios.
+Mica by Chill-Astro is an App that allows you to preview your Mica Backdrop Effect from your Wallpaper! This is a recreation of Mica by FireCubeStudios. 
 This app does nothing to be honest but it looks nice!
 
 Currently available for **Windows 11**.
@@ -12,20 +12,20 @@ Currently available for **Windows 11**.
 
 ## Key Features :
 
-- Mica Alt Blur ✅
+- Mica Blur ✅
 - Theme Switching Baked in ✅
 
 ---
 
 ### PREVIEW [ LIGHT ] :
 
-![Screenshot 2025-04-15 201513](https://github.com/user-attachments/assets/5f3ea76d-76ec-40a7-9be7-3c30d6474f0b)
+![Screenshot 2025-04-15 191045](https://github.com/user-attachments/assets/2b3dd119-9279-4c01-9e88-0602ebc54bf8)
 
 ---
 
 ### PREVIEW [ DARK ] :
 
-![Screenshot 2025-04-15 201459](https://github.com/user-attachments/assets/c271d7db-e0b6-4d2a-bef4-1f48352cb8d3)
+![Screenshot 2025-04-15 191103](https://github.com/user-attachments/assets/34f059eb-a2f6-4435-9f48-66815950d959)
 
 ---
 
